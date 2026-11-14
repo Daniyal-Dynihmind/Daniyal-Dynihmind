@@ -68,9 +68,9 @@ I help startups, agencies and small businesses launch fast, modern and scalable 
 
 > 💡 **Have an idea? Send it to me and I'll share a plan and quote within 24 hours.**
 
-- 📧 Email: your-email@gmail.com
-- 💬 WhatsApp: +92 300 0000000
-- 💼 LinkedIn: linkedin.com/in/your-profile
+- 📧 Email: Daniyalrasheed5@gmail.com  
+- 💬 WhatsApp: +92 3232621608
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/daniyal-rasheed-2a99a7a2/)
 - 📍 Based in: Karachi, Pakistan | Working Globally 🌍
 
 ---
