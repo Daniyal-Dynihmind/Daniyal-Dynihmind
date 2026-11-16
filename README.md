@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:Daniyalrasheed5@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-Email-success?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/923000000000">
+  <a href="https://wa.me/923232621608">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/daniyal-rasheed-2a99a7a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -85,9 +85,9 @@ I help startups, agencies, salons, clinics and small businesses launch fast, mod
 
 > 💡 **Have an idea? Send it to me and I'll share a plan and quote within 24 hours.**
 
-- 📧 Email: your-email@gmail.com
-- 💬 WhatsApp: +92 300 0000000
-- 💼 LinkedIn: linkedin.com/in/your-profile
+- 📧 Email: Daniyalrasheed5@gmail.com  
+- 💬 WhatsApp: +92 323 2621608
+- 💼 LinkedIn: https://www.linkedin.com/in/daniyal-rasheed-2a99a7a2/
 - 📍 Based in: Karachi, Pakistan | Working Globally 🌍
 
 ---
