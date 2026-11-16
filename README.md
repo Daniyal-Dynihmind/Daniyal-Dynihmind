@@ -39,12 +39,12 @@ I help startups, agencies, restaurants, salons, clinics and small businesses lau
 
 | # | Project | What It Does | Live Demo | Code |
 |---|---|---|---|---|
-| 1 | **ClientFlow CRM** | B2B CRM and invoicing SaaS with live invoice preview and PDF export | [Live](https://YOUR-CLIENTFLOW-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/clientflow-crm) |
-| 2 | **AI Resume Builder** | Resume builder with Google Gemini AI summaries and bullet improvements | [Live](https://YOUR-RESUME-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/ai-resume-builder) |
-| 3 | **Nexora Digital** | Modern agency landing page with services, pricing and contact form | [Live](https://YOUR-NEXORA-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/agency-landing-page) |
-| 4 | **Glow Studio Booking** | Salon booking system with live slots, overlap protection and admin dashboard | [Live](https://YOUR-GLOW-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/glow-studio-booking) |
-| 5 | **CareFirst Clinic Booking** | Clinic appointment system with consultation types, slots and admin dashboard | [Live](https://YOUR-CAREFIRST-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/carefirst-booking) |
-| 6 | **Spice Route Restaurant** | Restaurant website with digital menu, cart, WhatsApp ordering, reservations and gallery | [Live](https://YOUR-SPICE-ROUTE-LINK.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/spice-route-restaurant) |
+| 1 | **ClientFlow CRM** | B2B CRM and invoicing SaaS with live invoice preview and PDF export | [Live](https://clientflow-crm-red.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/clientflow-crm) |
+| 2 | **AI Resume Builder** | Resume builder with Google Gemini AI summaries and bullet improvements | [Live](https://ai-resume-builder-theta-sand.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/ai-resume-builder) |
+| 3 | **Nexora Digital** | Modern agency landing page with services, pricing and contact form | [Live](https://agency-landing-page-taupe-kappa.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/agency-landing-page) |
+| 4 | **Glow Studio Booking** | Salon booking system with live slots, overlap protection and admin dashboard | [Live](https://glow-studio-booking-mu.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/glow-studio-booking) |
+| 5 | **CareFirst Clinic Booking** | Clinic appointment system with consultation types, slots and admin dashboard | [Live](https://carefirst-booking.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/carefirst-booking) |
+| 6 | **Spice Route Restaurant** | Restaurant website with digital menu, cart, WhatsApp ordering, reservations and gallery | [Live](https://spice-route-restaurant-tan.vercel.app/) | [Repo](https://github.com/Daniyal-Dynihmind/spice-route-restaurant) |
 
 ---
 
