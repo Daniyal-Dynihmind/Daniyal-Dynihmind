@@ -8,6 +8,9 @@
 </p>
 
 <p align="center">
+  <b>🌐 <a href="https://daniyal-portfolio-five.vercel.app/">View My Portfolio</a></b>
+</p>
+<p align="center">
   <a href="mailto:Daniyalrasheed5@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-Email-success?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
